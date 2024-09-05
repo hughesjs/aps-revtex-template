@@ -1,6 +1,6 @@
 {
     "latex-workshop.latex.outDir": "%DIR%/build",
     "latex-workshop.latex.search.rootFiles.include": [
-        "**/spad-qrng.tex" // Jank but it works
+        "**/paper.tex" // Jank but it works
     ]
 }
